@@ -39,26 +39,26 @@ h1 {
 
 h2 {
   color: #fff;
-  font-size: 18px;
+  font-size: 24px;
 }
 
 h3 {
   color: #FF9387;
-  font-size: 16px;
+  font-size: 22px;
   text-align: center;
   font-family: 'Raleway', monospace;
 }
 
 h4 {
   color: #fff;
-  font-size: 12px;
+  font-size: 18px;
   text-align: center;
   font-family: 'Raleway', monospace;
 }
 
 p {
   color: #8D99AE;
-  font-size: 18px;
+  font-size: 24px;
   text-align: center;
   font-family: 'Raleway', monospace;
 }
