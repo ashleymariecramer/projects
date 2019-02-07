@@ -1,0 +1,152 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+
+@import
+url(https://fonts.googleapis.com/css?family=Lato);
+
+body {
+   padding-top: 30px;
+   background: #2B2D42;
+   color: #8D99AE;
+   font-family: "Lato";
+   font-size: 18px;
+   letter-spacing: 0.5px;
+   margin: -10 -10 -10 -10;
+}
+
+.spacing {
+  padding: 10px 30px 10px 30px;
+}
+
+.padding-above{
+  padding: 20px;
+}
+
+header{
+  font-family:'Raleway', monospace;
+  color: #fff;
+  text-align: center;
+  padding: 40px 0 0 0;
+  font-size: 50px;
+  letter-spacing: 2px;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Raleway', monospace;
+  font-size: 26px;
+  color: #fff;
+}
+
+h2 {
+  color: #fff;
+  font-size: 18px;
+}
+
+h3 {
+  color: #FF9387;
+  font-size: 16px;
+  text-align: center;
+  font-family: 'Raleway', monospace;
+}
+
+h4 {
+  color: #fff;
+  font-size: 12px;
+  text-align: center;
+  font-family: 'Raleway', monospace;
+}
+
+p {
+  color: #8D99AE;
+  font-size: 18px;
+  text-align: center;
+  font-family: 'Raleway', monospace;
+}
+
+btn {
+  text-align: center;
+  vertical-align: middle;
+  font-family: 'Raleway', monospace;
+  font-size: 24px;
+  color: #fff;
+  margin: 10px;
+}
+
+.button {
+    border: 2px solid;
+    border-radius: 8px;
+    color: white;
+    padding: 5px 15px;
+    text-align: center;
+    display: inline-block;
+    font-size: 15px;
+    font-family:'Lato';
+}
+
+.button:hover {
+  background-color: #FF9387;
+  color: #fff;
+}
+
+#email {
+  color: #2B2D42;
+  placerholder-color: #8D99AE;
+
+}
+
+footer {
+  width: 100%;
+  background-color:#8D99AE;
+  color: #fff;
+  font-family: 'Lato', monospace;
+  font-size: 15px;
+  text-align: center;
+}
+
+.gray-border {
+  color: #8D99AE;
+  border: 4px;
+  border-style: solid;
+}
+
+.gray-box {
+ background-color: #8D99AE;
+ color: #fff;
+ width: 100%;
+ text-align: center;
+}
+
+.peach-bar {
+  background-color: #FF9387;
+  color: #fff;
+}
+
+.peach-line-top {
+  border-top: 4px solid #FF9387;
+  width: 100%;
+  position: static;
+  padding-top: 30px;
+  position-left: 10px;
+}
+
+.peach-line-bottom {
+  border-bottom: 4px solid #FF9387;
+  width: 100%;
+  padding-bottom: 30px;
+}
+
+a {color:#fff;}
+a:hover{color:#FF9387;}
+a:active{color:#2B2D42;}
+
+.portfolio {
+  border-color: #8D99AE;
+  border-width: 2px;
+  border-style: solid;
+  margin: 10px 10px 10px 10px;
+  max-height: 200px;
+}
+
+.img-up {
+  margin-top: -15px;
+}
